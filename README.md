@@ -1,11 +1,11 @@
-# Data-Cleaning-ETL-Project
+# Projeto-Limpeza-Dados-ETL
 
 ## Visão Geral do Projeto
 No mundo real, os dados chegam desorganizados, com informações em falta e erros de registo que destroem a confiança nos relatórios. Este projeto demonstra a minha capacidade de engenharia de dados ao pegar numa base de dados de vendas "suja" e transformá-la numa tabela 100% limpa, consistente e pronta para análise de negócio.
 
 ---
 
-##  O Problema vs. A Solução (Data Quality)
+##  O Problema vs. A Solução
 
 ###  1. Antes: Base de Dados Original (Com Erros)
 * **Inconsistência Crítica:** Altos índices de valores nulos (`null`) nas colunas de Método de Pagamento (`Payment Method`, com apenas 68% de dados válidos) e Localização (`Location`, com apenas 63% de dados válidos).
@@ -25,7 +25,7 @@ No mundo real, os dados chegam desorganizados, com informações em falta e erro
 
 ---
 
-##  Transformações Aplicadas (Applied Steps no Power Query)
+##  Transformações Aplicadas
 
 Para atingir a integridade total dos dados, apliquei as seguintes etapas técnicas no **Power Query**:
 
