@@ -11,7 +11,8 @@ No mundo real, os dados chegam desorganizados, com informações em falta e erro
 * **Inconsistência Crítica:** Altos índices de valores nulos (`null`) nas colunas de Método de Pagamento (`Payment Method`, com apenas 68% de dados válidos) e Localização (`Location`, com apenas 63% de dados válidos).
 * **Dados Corrompidos:** Registos vazios em colunas numéricas estruturais como Quantidade (`Quantity`) e falhas de registo em datas de transações (`Transaction Date`).
 
-*(Apaga este texto e faz CTRL+V do teu PRIMEIRO PRINT aqui - o que tem as barras vermelhas/cinzentas)*
+<img width="1649" height="847" alt="image" src="https://github.com/user-attachments/assets/377bf839-1789-4842-924c-162a9bf7e6c5" />
+
 
 ---
 
@@ -19,8 +20,8 @@ No mundo real, os dados chegam desorganizados, com informações em falta e erro
 * **Qualidade Máxima:** 100% de dados válidos, 0% de erros e 0% de valores vazios em todas as colunas do relatório.
 * **Pronto para Modelação:** Os dados foram normalizados para garantir que qualquer fórmula DAX ou relação de *Star Schema* funcione sem quebrar.
 
-*<img width="1651" height="842" alt="image" src="https://github.com/user-attachments/assets/272ea0c5-6439-40da-b69e-743f38523e7e" />
-*
+<img width="1651" height="842" alt="image" src="https://github.com/user-attachments/assets/272ea0c5-6439-40da-b69e-743f38523e7e" />
+
 
 ---
 
