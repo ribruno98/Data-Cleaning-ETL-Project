@@ -1,6 +1,6 @@
 # Data-Cleaning-ETL-Project
 
-## Project Overview (Visão Geral do Projeto)
+## Visão Geral do Projeto
 No mundo real, os dados chegam desorganizados, com informações em falta e erros de registo que destroem a confiança nos relatórios. Este projeto demonstra a minha capacidade de engenharia de dados ao pegar numa base de dados de vendas "suja" e transformá-la numa tabela 100% limpa, consistente e pronta para análise de negócio.
 
 ---
